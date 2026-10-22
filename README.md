@@ -31,3 +31,11 @@ dictionary
 
 function
 A function is a reusable block of code that performs a task.
+
+Default and keyword arguments
+
+Scopes
+
+lambada 
+
+
