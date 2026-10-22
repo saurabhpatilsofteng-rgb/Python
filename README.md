@@ -52,4 +52,15 @@ JSON is a common data format for REST APIs and configuration files.
 Object-oriented Python (OOP)
 OOP organizes code around classes and objects. It is useful when an application contains entities such as employees, customers, products, or bank accounts.
 
+Dataclasses
+
+
+
+Dataclasses reduce repetitive code for classes primarily used to store data.
+
+
+Advanced Python
+1. Iterators
+An iterator returns values one at a time.
+
 
