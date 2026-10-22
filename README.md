@@ -18,3 +18,6 @@ NoneType	None	No value currently assigned
 
 
 Type conversion
+
+Operators and input/output
+Operators perform calculations and comparisons.
