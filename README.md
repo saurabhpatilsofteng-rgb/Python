@@ -43,4 +43,7 @@ String comparations
 Modules and packages
 A module is a Python file that can be imported into another file. A package organizes related modules.
 
+Files and exceptions
+Programs often need to save data or read configuration files. Exceptions allow you to handle errors without unexpectedly terminating the application.
+
 
