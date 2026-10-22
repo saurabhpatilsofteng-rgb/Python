@@ -27,3 +27,7 @@ list
 tuple
 set
 dictionary
+
+
+function
+A function is a reusable block of code that performs a task.
