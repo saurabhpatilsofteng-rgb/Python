@@ -21,3 +21,9 @@ Type conversion
 
 Operators and input/output
 Operators perform calculations and comparisons.
+
+collection
+list
+tuple
+set
+dictionary
