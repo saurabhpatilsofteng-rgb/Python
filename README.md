@@ -38,4 +38,9 @@ Scopes
 
 lambada 
 
+String comparations 
+
+Modules and packages
+A module is a Python file that can be imported into another file. A package organizes related modules.
+
 
