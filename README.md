@@ -49,4 +49,7 @@ Programs often need to save data or read configuration files. Exceptions allow y
 working with json
 JSON is a common data format for REST APIs and configuration files.
 
+Object-oriented Python (OOP)
+OOP organizes code around classes and objects. It is useful when an application contains entities such as employees, customers, products, or bank accounts.
+
 
