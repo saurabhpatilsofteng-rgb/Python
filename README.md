@@ -46,4 +46,7 @@ A module is a Python file that can be imported into another file. A package orga
 Files and exceptions
 Programs often need to save data or read configuration files. Exceptions allow you to handle errors without unexpectedly terminating the application.
 
+working with json
+JSON is a common data format for REST APIs and configuration files.
+
 
